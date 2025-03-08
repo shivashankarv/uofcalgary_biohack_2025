@@ -1,8 +1,7 @@
-Below is the compiled markdown version of your final slides, with a `fade` transition between each slide:
-
 ---
-
-transition: fade
+revealOptions:
+  transition: 'fade'
+---
 
 # 👋 **About Me**
 ### Varun Shivashankar @ BioHack 2025
@@ -15,8 +14,6 @@ transition: fade
 Sharing my (highly nonlinear!) research journey, key learnings from unexpected scientific adventures, and practical advice for BioHackers.
 
 ---
-
-transition: fade
 
 # 🚀 **My (Highly Nonlinear) Journey**
 
@@ -33,8 +30,6 @@ Each step was incidental—driven by curiosity, great science, and meaningful pr
 > “If the science excites you, the cause is noble, and you believe you can add value—**dive head-first!**”
 
 ---
-
-transition: fade
 
 # 🌟 **Breakthroughs (Many Firsts!)**
 
@@ -66,8 +61,6 @@ _"Your greatest impact happens when computational and experimental teams speak t
 
 ---
 
-transition: fade
-
 # 🎯 **Advice to BioHackers**
 
 Here’s what I'd tell my younger self—and any aspiring BioHacker today:
@@ -85,8 +78,6 @@ Here’s what I'd tell my younger self—and any aspiring BioHacker today:
    🛠️ Clean code, good documentation, and thoughtful engineering amplify your impact and longevity.
 
 ---
-
-transition: fade
 
 # 🧪 **Research Impact: ML in Molecule Screening**
 
