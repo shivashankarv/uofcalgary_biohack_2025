@@ -44,11 +44,26 @@ Here are some key questions that guided this presentation:
 
 ### 🌟 **Breakthroughs (Many Firsts!)**
 
-| "Firsts" 🥇                           | Highlights & Learnings 📖                                                                                                                                                      |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **First Bioinformatics Product:** MoA Central (Novartis) | Built a knowledge graph search engine using **PageRank** to triage compound-target relationships.<br> 💡 _"Frames target prioritization as a search problem—and algorithms can truly power discovery."_ |
-| **First Employee at a Startup:** Montai Health           | First full-time hire—helped shape an AI-driven drug discovery platform.<br> 😂 _"Ironically, naming the company was our toughest challenge—we tried ranked-choice voting, but the CEO ultimately made an executive call."_          |
-| **First AI-driven Screening Platform:** Orna Therapeutics | Created an AI-powered circular RNA screening platform combining RNA-Language Models, structural RNA design, and large-scale NGS screening.<br> 🍕 _"We ended up ordering a suspicious amount of food, always justified by ‘brainstorming’ sessions!"_          |
+##### **First Bioinformatics Product:** MoA Central (Novartis)
+Built a knowledge graph search engine using **PageRank** to triage compound-target relationships.
+<br> 💡 _"Frames target prioritization as a search problem—and algorithms can truly power discovery."_
+
+---
+
+### 🌟 **Breakthroughs (Many Firsts!)**
+
+##### **First Employee at a Startup:** Montai Health
+First full-time hire—helped shape an AI-driven drug discovery platform.
+<br> 😂 _"Ironically, naming the company was our toughest challenge—we tried ranked-choice voting, but the CEO ultimately made an executive call."_
+
+---
+
+
+### 🌟 **Breakthroughs (Many Firsts!)**
+
+##### **First AI-driven Screen:** Orna Therapeutics
+Created an AI-powered circular RNA screening platform combining RNA-Language Models, structural RNA design, and large-scale NGS screening.
+<br> 🍕 _"We ended up ordering a suspicious amount of food, always justified by ‘brainstorming’ sessions!"_
 
 ---
 
