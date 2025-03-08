@@ -1,25 +1,15 @@
+---
+revealOptions:
+  transition: 'fade'
+---
+
 <style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  table, th, td {
-    border: 1px solid #ddd;
-  }
-  th, td {
-    padding: 8px;
-    text-align: left;
-  }
   /* Adjust the overall font size for the presentation */
   .reveal .slides {
     font-size: 0.8em; /* Decrease to 80% of the default size, adjust as needed */
   }
 </style>
 
----
-revealOptions:
-  transition: 'fade'
----
 
 ### 🌟 Following the Signal: A Nonlinear Walk Through ML and Bioinformatics
 
@@ -49,12 +39,10 @@ Here are some key questions that guided this presentation:
 
 ### 🚀 **My (Highly Nonlinear) Journey**
 
-| Role                        | What I did 📌                                                                                  |
-|-----------------------------|------------------------------------------------------------------------------------------------|
-| **Parabilis Medicines** _(Now)_  | AI-drive design of peptide binders with ML.                       |
-| **Orna Therapeutics**       | AI-assisted circular RNA design; NGS-based screening.                   |
-| **Montai Therapeutics**     | In silico modeling compound-target/pathway interactions and combinatorial effects.    |
-| **Novartis (NIBR)**         | Computational RNA biology, Network biology, built the MoA Central knowledge graph.             |
+1. **Novartis (NIBR)** - Computational RNA biology, Network biology, built the MoA Central knowledge graph.
+2. **Montai Therapeutics** - In silico modeling compound-target/pathway interactions and combinatorial effects.
+3. **Orna Therapeutics** - AI-assisted circular RNA design; NGS-based screening. 
+4. **Parabilis Medicines** _(Now)_ - AI-drive design of peptide binders with ML. 
 
 💡 “If the science excites you, the cause is noble, and you believe you can add value—**dive head-first!**”
 
@@ -87,13 +75,51 @@ Created an AI-powered circular RNA screening platform combining RNA-Language Mod
 
 ### ⚔️ **Challenges & Lessons Learned**
 
-| Challenge 🚧                                  | Lesson Learned 📚                                                                                                     |
-|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Transitioning from Bioinformatics → ML**    | 💡 **ML transforms your thinking:** Predictive models shifted how I fundamentally approach scientific problems.  |
-| **Convincing teams to trust ML**              | 💬 **Communication is critical:** Frame everything in biological terms, and show clear, incremental value. |
-| **Biology + ML > ML alone**                   | 🔥 **Insights + models:** Pairing ML-generated sequences + RNA structural insights = best RNA designs at Orna. |
-| **Adopting software engineering early**       | 🛠️ **Build lasting tools:** Let your legacy live on after you!           |
-| **Ensuring wet-lab accessibility**            | 🧪 **Real impact = usability:** Making models and tools accessible to experimentalists to effect science.    |
+Challenge 🚧
+**Transitioning from Bioinformatics → ML**
+
+Lesson Learned 📚 
+💡 **ML transforms your thinking:** Predictive models shifted how I fundamentally approach scientific problems.
+
+---
+
+### ⚔️ **Challenges & Lessons Learned**
+
+Challenge 🚧
+**Convincing teams to trust ML** 
+
+Lesson Learned 📚
+💬 **Communication is critical:** Frame everything in biological terms, and show clear, incremental value.
+
+---
+
+### ⚔️ **Challenges & Lessons Learned**
+
+Challenge 🚧
+**Biology + ML > ML alone**
+
+Lesson Learned 📚
+🔥 **Insights + models:** Pairing ML-generated sequences + RNA structural insights = best RNA designs at Orna.
+
+---
+
+### ⚔️ **Challenges & Lessons Learned**
+
+Challenge 🚧
+**Adopting software engineering early**
+
+Lesson Learned 📚
+🛠️  **Build lasting tools:** Let your legacy live on after you!
+
+---
+
+### ⚔️ **Challenges & Lessons Learned**
+
+Challenge 🚧
+**Ensuring wet-lab accessibility** 
+
+Lesson Learned 📚
+🧪 **Real impact = usability:** Making models and tools accessible to experimentalists to effect science.
 
 ---
 
