@@ -11,7 +11,7 @@
     text-align: left;
   }
   /* Adjust the overall font size for the presentation */
-  .reveal {
+  .reveal .slides {
     font-size: 0.8em; /* Decrease to 80% of the default size, adjust as needed */
   }
 </style>
