@@ -1,3 +1,10 @@
+name: Install ImageMagick
+  run: |
+    sudo apt-get update
+    sudo apt-get install -y imagemagick
+    which convert  # Debug: this should print the path to the convert command
+
+
 name: Build and deploy slides
 
 on:
