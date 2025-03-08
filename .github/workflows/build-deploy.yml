@@ -1,10 +1,3 @@
-- name: Install ImageMagick
-  run: |
-    sudo apt-get update
-    sudo apt-get install -y imagemagick
-    which convert  # Debug: this should print the path to the convert command
-
-
 name: Build and deploy slides
 
 on:
@@ -16,7 +9,6 @@ jobs:
   build-slides:
     runs-on: ubuntu-latest
     name: Build slides
-
     defaults:
       run:
         shell: bash -l {0}
@@ -25,11 +17,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Build slides
+      - name: Install ImageMagick
         run: |
-          apt install imagemagick
-          npm i -g reveal-md
-          make build
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+          which convert  # Debug: Verify that 'convert' is available
+
+      - name: Install reveal-md
+        run: npm i -g reveal-md
+
+      - name: Build slides
+        run: make build
 
       - name: Deploy slides
         uses: peaceiris/actions-gh-pages@v3
@@ -42,3 +40,4 @@ jobs:
           force_orphan: true
           enable_jekyll: false
           disable_nojekyll: false
+
