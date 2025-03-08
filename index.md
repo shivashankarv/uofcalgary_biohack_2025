@@ -16,6 +16,8 @@ Varun Shivashankar
 - **Expertise:** Machine Learning, Computational Biology, Drug Discovery :dna:, and expert-level Language Model usage 🤖
 - **Passion:** Leveraging ML to tackle previously "undruggable" biological targets.
 
+---
+
 :bulb: **Today's talk:**  
 Sharing my (highly nonlinear!) research journey, key learnings from unexpected scientific adventures, and practical advice for BioHackers.
 
@@ -23,13 +25,11 @@ Sharing my (highly nonlinear!) research journey, key learnings from unexpected s
 
 # 🚀 **My (Highly Nonlinear) Journey**
 
-Each step was incidental—driven by curiosity, great science, and meaningful problems.
-
 | Role                        | What I did 📌                                                                                  |
 |-----------------------------|------------------------------------------------------------------------------------------------|
-| **Parabilis Medicines** _(Now)_  | Designing, screening, and rapidly generating peptide binders with ML.                       |
-| **Orna Therapeutics**       | AI-assisted circular RNA design, RNA structural design, NGS-based screening.                   |
-| **Montai Therapeutics**     | Developed models predicting compound-target/pathway interactions and combinatorial effects.    |
+| **Parabilis Medicines** _(Now)_  | AI-drive design of peptide binders with ML.                       |
+| **Orna Therapeutics**       | AI-assisted circular RNA design; NGS-based screening.                   |
+| **Montai Therapeutics**     | In silico modeling compound-target/pathway interactions and combinatorial effects.    |
 | **Novartis (NIBR)**         | Computational RNA biology, Network biology, built the MoA Central knowledge graph.             |
 
 :bulb: **Core Lesson Learned:**  
