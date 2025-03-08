@@ -3,9 +3,9 @@ revealOptions:
   transition: 'fade'
 ---
 
-# 🌟 Following the Signal: My Nonlinear Walk Through ML and Bioinformatics
+### 🌟 Following the Signal: A Nonlinear Walk Through ML and Bioinformatics
 
-Varun Shivashankar, M.S.
+Varun Shivashankar
 
 ---
 
@@ -49,8 +49,6 @@ Each step was incidental—driven by curiosity, great science, and meaningful pr
 _"Innovation often starts from surprisingly simple (and funny!) human moments."_
 
 ---
-
-transition: fade
 
 # ⚔️ **Challenges & Lessons Learned**
 
