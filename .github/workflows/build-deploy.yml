@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PUPPETEER_ARGS: "--no-sandbox"
+      PUPPETEER_EXECUTABLE_PATH: "/usr/bin/chromium-browser"
     defaults:
       run:
         shell: bash -l {0}
@@ -22,7 +23,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y imagemagick
-          which convert  # Debug: Verify that 'convert' is available
+          which convert  # Verify 'convert' is available
 
       - name: Install Puppeteer Dependencies
         run: |
@@ -37,7 +38,13 @@ jobs:
             libnss3 \
             libatk1.0-0 \
             libatk-bridge2.0-0 \
-            libgtk-3-0
+            libgtk-3-0 \
+            libgbm1
+
+      - name: Install Chromium
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
 
       - name: Install reveal-md
         run: npm i -g reveal-md
