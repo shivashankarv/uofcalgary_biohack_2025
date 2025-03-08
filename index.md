@@ -9,11 +9,11 @@ Varun Shivashankar
 
 ---
 
-# 👋 **About Me**
-### Varun Shivashankar @ BioHack 2025
+### 👋 **About Me**
 
+- **Who:** Varun Shivashankar 
 - **Current Role:** Associate Director, ML @ Parabilis Medicines
-- **Expertise:** Machine Learning, Computational Biology, Drug Discovery :dna:, and expert-level Language Model usage 🤖
+- **Expertise:** Machine Learning, Computational Biology, Drug Discovery :dna:, and ChatGPT user 🤖
 - **Passion:** Leveraging ML to tackle previously "undruggable" biological targets.
 
 ---
@@ -23,7 +23,7 @@ Sharing my (highly nonlinear!) research journey, key learnings from unexpected s
 
 ---
 
-# 🚀 **My (Highly Nonlinear) Journey**
+### 🚀 **My (Highly Nonlinear) Journey**
 
 | Role                        | What I did 📌                                                                                  |
 |-----------------------------|------------------------------------------------------------------------------------------------|
@@ -37,7 +37,7 @@ Sharing my (highly nonlinear!) research journey, key learnings from unexpected s
 
 ---
 
-# 🌟 **Breakthroughs (Many Firsts!)**
+### 🌟 **Breakthroughs (Many Firsts!)**
 
 | "Firsts" 🥇                           | Highlights & Learnings 📖                                                                                                                                                      |
 |----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -50,7 +50,7 @@ _"Innovation often starts from surprisingly simple (and funny!) human moments."_
 
 ---
 
-# ⚔️ **Challenges & Lessons Learned**
+### ⚔️ **Challenges & Lessons Learned**
 
 | Challenge 🚧                                  | Lesson Learned 📚                                                                                                                                           |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -65,7 +65,7 @@ _"Your greatest impact happens when computational and experimental teams speak t
 
 ---
 
-# 🎯 **Advice to BioHackers**
+### 🎯 **Advice to BioHackers**
 
 Here’s what I'd tell my younger self—and any aspiring BioHacker today:
 
@@ -83,7 +83,7 @@ Here’s what I'd tell my younger self—and any aspiring BioHacker today:
 
 ---
 
-# 🧪 **Research Impact: ML in Molecule Screening**
+### 🧪 **Research Impact: ML in Molecule Screening**
 
 Here's how I've leveraged machine learning to significantly enhance screening processes across different therapeutic modalities:
 
@@ -100,7 +100,7 @@ _"ML doesn’t replace experiments, but significantly accelerates and amplifies 
 
 transition: fade
 
-# 🤖 **I Asked ChatGPT to Interview Me**
+### 🤖 **I Asked ChatGPT to Interview Me**
 
 To prep for this talk, I asked ChatGPT to interview me!
 
@@ -108,7 +108,7 @@ Here are some key questions that guided this presentation:
 
 1. **Career Journey 🌱**  
    - _How did your nonlinear path in bioinformatics and ML shape your approach to science?_
-
+     
 2. **Scientific Breakthroughs & "Firsts" 🥇**  
    - _What experiences significantly shaped your career trajectory?_
 
