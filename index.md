@@ -11,7 +11,7 @@ revealOptions:
 </style>
 
 
-### 🌟 Following the Signal: A Nonlinear Walk Through ML and Bioinformatics
+### 🌟 Following the Signal: Random walk through ML/Bioinformatics
 
 Varun Shivashankar @ UofCalgary BioHack '25
 
