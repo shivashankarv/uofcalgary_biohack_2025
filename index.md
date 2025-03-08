@@ -1,3 +1,17 @@
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+</style>
+
 ---
 revealOptions:
   transition: 'fade'
