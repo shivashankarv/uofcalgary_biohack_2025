@@ -1,1 +1,1 @@
-# uofcalgary_biohack_2025
+# BioHack 2025 talk
