@@ -3,6 +3,12 @@ revealOptions:
   transition: 'fade'
 ---
 
+# 🌟 Following the Signal: My Nonlinear Walk Through ML and Bioinformatics
+
+Varun Shivashankar, M.S.
+
+---
+
 # 👋 **About Me**
 ### Varun Shivashankar @ BioHack 2025
 
