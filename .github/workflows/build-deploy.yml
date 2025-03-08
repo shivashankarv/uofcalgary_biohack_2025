@@ -8,7 +8,8 @@ on:
 jobs:
   build-slides:
     runs-on: ubuntu-latest
-    name: Build slides
+    env:
+      PUPPETEER_ARGS: "--no-sandbox"
     defaults:
       run:
         shell: bash -l {0}
@@ -22,6 +23,21 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y imagemagick
           which convert  # Debug: Verify that 'convert' is available
+
+      - name: Install Puppeteer Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libx11-xcb1 \
+            libxcomposite1 \
+            libxcursor1 \
+            libxdamage1 \
+            libxi6 \
+            libxtst6 \
+            libnss3 \
+            libatk1.0-0 \
+            libatk-bridge2.0-0 \
+            libgtk-3-0
 
       - name: Install reveal-md
         run: npm i -g reveal-md
