@@ -126,5 +126,3 @@ Here are some key questions that guided this presentation:
   - **Surprising** – The AI occasionally asked better questions than human interviewers!
   - **Fun** – Who knew you could build slides through a conversation?
 
-:bulb: **Meta Insight:**  
-> “Using AI creatively isn't just a hack—it's the future of rapid knowledge synthesis.”
